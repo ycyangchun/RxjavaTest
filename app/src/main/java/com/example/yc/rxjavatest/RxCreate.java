@@ -18,6 +18,8 @@ import rx.functions.Action1;
 
 /**
  * Created by Administrator on 2017/3/3.
+ * 简单创建rxjava流程
+ * Creating Observables(Observable的创建操作符)，比如：Observable.create()、Observable.just()、Observable.from()等等
  */
 
 public class RxCreate extends Activity {

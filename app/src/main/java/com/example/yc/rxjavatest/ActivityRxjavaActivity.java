@@ -24,7 +24,7 @@ public class ActivityRxjavaActivity extends Activity {
 
     @OnClick(R.id.button2)
     void onButton2Click() {
-        //TODO implement
+       startActivity(new Intent(this , RxMap.class));
     }
 
 

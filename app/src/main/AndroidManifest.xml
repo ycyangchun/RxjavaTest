@@ -17,6 +17,7 @@
         </activity>
 
         <activity android:name=".RxCreate"/>
+        <activity android:name=".RxMap"/>
 
     </application>
 
